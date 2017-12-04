@@ -14,3 +14,8 @@ Uses [XcodeGen](https://github.com/yonaskolb/XcodeGen) to generate `.xcodeproj` 
  - [ ] Quit Xcode if open before opening generated workspace
  - [ ] Documentaion
  - [ ] Tests
+
+### Whats up with the Python
+
+- Wanted to learn python (this code could be horrendous, I have no idea, but it works)
+- Swift is always ~~breaking~~changing

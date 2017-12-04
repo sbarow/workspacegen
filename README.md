@@ -42,6 +42,7 @@ Running commands would then be done with:
  - [ ] Quit Xcode if open before opening generated workspace
  - [ ] Bootstrap - Fetch all carthage dependencies and build (too slow?), install xcode templates etc.
  - [ ] Sort xml alpha/grouped
+ - [ ] Paths to dependencies (would need changes in `XcodeGen`)
  - [ ] Documentaion
  - [ ] Tests
 

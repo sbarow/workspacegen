@@ -32,7 +32,7 @@ Running commands would then be done with:
 
 ### TODO
  
- - [ ] Project generation
+ - [X] Project generation
  - [ ] Use `.workspacegen` file to define aliases for project instead of search project for `project.yml` files
  - [ ] Ability to define Schemes that should be included in workspace
  - [ ] Static libraries & strings/images. 

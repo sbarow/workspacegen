@@ -1,7 +1,6 @@
-# iOS WorkSpace Gen
-Generate Xcode Workspaces from `project.yml` file.
+# Xcode WorkSpace Gen
 
-Uses [XcodeGen](https://github.com/yonaskolb/XcodeGen) to generate `.xcodeproj` files and then builds a Workspace based on the project dependencies.
+Uses [XcodeGen](https://github.com/yonaskolb/XcodeGen) to generate `.xcodeproj` from `project.yml` files and then builds a Workspace based on the project dependencies.
 
 ### Usage
 

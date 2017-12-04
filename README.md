@@ -47,5 +47,5 @@ Running commands would then be done with:
 
 ### Whats up with the Python
 
-- Wanted to learn python (this code could be horrendous, I have no idea, but it works)
+- Wanted to learn python (seriously this is the first time I have ever written it, this code could be horrendous, I have no idea, but it works)
 - Swift is always ~~breaking~~changing
